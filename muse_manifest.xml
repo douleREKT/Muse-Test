@@ -1,0 +1,134 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.gg" resolutions="1x" timestamp="1517322279877">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="191321424" ref="index"/>
+    <file name="index.css" crc="103557297" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="chilies.png" crc="420940677" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leaf-and-coffee-beans.png" crc="4163747499" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiramisu.jpg" crc="266712623" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tomato.png" crc="3941426476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-image-min.jpg" crc="340026977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-logo.svg" crc="4221667769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-logo_poster_.png" crc="367839683" ref="index"/>
+    <file name="peppers.png" crc="4017875672" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="good-food-image.jpg" crc="4117765723" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chef-mark.png" crc="169019457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spoon-fork-icon-u1123.png" crc="284541154" ref="index"/>
+    <file name="section-5-background.png" crc="4006108839" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="section-5-logo-1.png" crc="3851238520" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="section-5-logo-2.jpg" crc="98935825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="section-5-logo-3.png" crc="3779444297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="section-5-logo-4.png" crc="71957768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="greek-salad-kabob.jpg" crc="416894499" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="harpers-stuffing.jpg" crc="4087378813" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="view-all-icon.png" crc="32181371" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="harpers-croutons.jpg" crc="511992672" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peas-2.png" crc="3963917118" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entree.jpg" crc="4020244868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="salad.jpg" crc="293089049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chicken-icon.png" crc="3950235626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dish-icon.png" crc="337210956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nachos-icon.png" crc="102376646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasta-icon.png" crc="4015554418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shake-icon.png" crc="4037013635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="section-3-background.jpg" crc="3948061105" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="avocado-sandwich.jpg" crc="414290929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="corn-soup.jpg" crc="3911404031" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indian-rice.jpg" crc="3922679310" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shrimp.png" crc="140508968" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peas-u1937.png" crc="415431060" ref="index"/>
+    <file name="footer-logo.svg" crc="524465155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footer-logo_poster_.png" crc="4002444188" ref="index"/>
+    <file name="facebook-logo.png" crc="4129240072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google-plus-logo.png" crc="4085889981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube-logo.png" crc="110958768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-logo.png" crc="425013425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3784568956" seo="true" mt="1517322166365" redirect="true"/>
+</manifest>
